@@ -1,104 +1,135 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Мир Танков</title>
+    <title>Zoom Meeting Invitations</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #1c1c1c;
-            color: #ffffff;
         }
-        header {
-            background-color: #333333;
+        .container {
+            max-width: 600px;
+            margin: auto;
             padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
             text-align: center;
-        }
-        header h1 {
-            color: #f0ad4e;
-        }
-        nav {
-            background-color: #444444;
-            display: flex;
-            justify-content: center;
-            padding: 10px 0;
-        }
-        nav a {
-            color: #ffffff;
-            text-decoration: none;
-            margin: 0 15px;
-            font-weight: bold;
-        }
-        nav a:hover {
-            color: #f0ad4e;
-        }
-        main {
-            padding: 20px;
-        }
-        section {
             margin-bottom: 40px;
-            text-align: center;
         }
-        section h2 {
-            color: #f0ad4e;
+        .meeting {
             margin-bottom: 20px;
         }
-        .tank-images img {
-            width: 300px;
-            height: auto;
-            margin: 10px;
-            border: 3px solid #f0ad4e;
+        .meeting h2 {
+            margin-bottom: 10px;
         }
-        footer {
-            background-color: #333333;
-            color: #999999;
-            text-align: center;
-            padding: 10px 0;
+        .meeting pre {
+            background: #f4f4f4;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
         }
     </style>
 </head>
 <body>
-    <header>
-        <h1>Мир Танков</h1>
-        <p>Познакомьтесь с легендарной техникой!</p>
-    </header>
-    <nav>
-        <a href="#wwii">Танки Второй мировой войны</a>
-        <a href="#modern">Современные танки</a>
-        <a href="#facts">Интересные факты</a>
-    </nav>
-    <main>
-        <section id="wwii">
-            <h2>Танки Второй мировой войны</h2>
-            <p>Эти машины сыграли решающую роль в исторических сражениях. Среди них такие модели, как Т-34, «Тигр» и Sherman.</p>
-            <div class="tank-images">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/T-34-85_latrun-1.jpg" alt="Т-34">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Tiger_I_late_production.jpg" alt="Танк Тигр">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Sherman_tank.jpg" alt="Танк Sherman">
-            </div>
-        </section>
-        <section id="modern">
-            <h2>Современные танки</h2>
-            <p>Современные танки оснащены передовыми технологиями и представляют вершину инженерной мысли. Среди них Leopard 2, M1 Abrams и Т-14 «Армата».</p>
-            <div class="tank-images">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Leopard_2_A5_der_Bundeswehr.jpg" alt="Leopard 2">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/M1_Abrams_main_battle_tank.jpg" alt="M1 Abrams">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/T-14_Armata_Rehearsal_2015.jpg" alt="Т-14 Армата">
-            </div>
-        </section>
-        <section id="facts">
-            <h2>Интересные факты о танках</h2>
-            <p>🔹 Первый танк был построен в 1915 году в Великобритании.<br>
-               🔹 Т-34 признан одним из лучших танков Второй мировой войны.<br>
-               🔹 Современные танки могут развивать скорость до 70 км/ч.
+    <div class="container">
+        <h1>Zoom Meeting Invitations</h1>
+
+        <div class="meeting">
+            <h2>Тетяна Молодан (Regular Zoom Meeting)</h2>
+            <p>
+                <strong>Join URL:</strong> <a href="https://us04web.zoom.us/j/79227709793?pwd=i4ZyiQ9niVPIzwOpZsbudRoxhNQgQG.1">https://us04web.zoom.us/j/79227709793?pwd=i4ZyiQ9niVPIzwOpZsbudRoxhNQgQG.1</a><br>
+                <strong>Meeting ID:</strong> 792 2770 9793<br>
+                <strong>Passcode:</strong> VF7vX5
             </p>
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2025 Мир Танков. Все права защищены.</p>
-    </footer>
-</body>
-</html>
+        </div>
+
+        <div class="meeting">
+            <h2>Наталія Безцінна (Географія)</h2>
+            <p>
+                <strong>Join URL:</strong> <a href="https://us04web.zoom.us/j/73438383290?pwd=0aa87yfW5jCYSDa0ujq5as2aNEfpkQ.1">https://us04web.zoom.us/j/73438383290?pwd=0aa87yfW5jCYSDa0ujq5as2aNEfpkQ.1</a><br>
+                <strong>Meeting ID:</strong> 734 3838 3290<br>
+                <strong>Passcode:</strong> 69y3wZ
+            </p>
+        </div>
+
+        <div class="meeting">
+            <h2>Вікторія Гурська (Regular Zoom Meeting)</h2>
+            <p>
+                <strong>Join URL:</strong> <a href="https://us04web.zoom.us/j/73031667509">https://us04web.zoom.us/j/73031667509</a><br>
+                <strong>Meeting ID:</strong> 730 3166 7509<br>
+                <strong>Passcode:</strong> 1m0MUb
+            </p>
+        </div>
+
+        <div class="meeting">
+            <h2>Аліна Хом'ячук (Regular Zoom Meeting)</h2>
+            <p>
+                <strong>Join URL:</strong> <a href="https://us05web.zoom.us/j/85881524102?pwd=4UJ8kX4kaxzPNZc4VIPeBlMwWJo6K2.1">https://us05web.zoom.us/j/85881524102?pwd=4UJ8kX4kaxzPNZc4VIPeBlMwWJo6K2.1</a><br>
+                <strong>Meeting ID:</strong> 858 8152 4102<br>
+                <strong>Passcode:</strong> 9K4hZY
+            </p>
+        </div>
+
+        <div class="meeting">
+            <h2>Носко Н.Д. (Regular Zoom Meeting)</h2>
+            <p>
+                <strong>Join URL:</strong> <a href="https://us04web.zoom.us/j/71072228881?pwd=aXhZMXFIVUZDK3lyOWNvNGJwQ3ZNQT09">https://us04web.zoom.us/j/71072228881?pwd=aXhZMXFIVUZDK3lyOWNvNGJwQ3ZNQT09</a><br>
+                <strong>Meeting ID:</strong> 710 7222 8881<br>
+                <strong>Passcode:</strong> LxB72H
+            </p>
+        </div>
+
+        <div class="meeting">
+            <h2>Олена Коваль (Мистецтво/Технології)</h2>
+            <p>
+                <strong>Join URL:</strong> <a href="https://us04web.zoom.us/j/78477070933?pwd=xfNMbEs1Gluc69DKai1TNTv9ODbbmj.1">https://us04web.zoom.us/j/78477070933?pwd=xfNMbEs1Gluc69DKai1TNTv9ODbbmj.1</a><br>
+                <strong>Meeting ID:</strong> 784 7707 0933<br>
+                <strong>Passcode:</strong> 1rMd44
+            </p>
+        </div>
+
+        <div class="meeting">
+            <h2>Любов Гречихіна (Біологія)</h2>
+            <p>
+                <strong>Join URL:</strong> <a href="https://us04web.zoom.us/j/72022377293?pwd=tG2A71Ngr3dnAL1dnBPivh72RRT4LO.1">https://us04web.zoom.us/j/72022377293?pwd=tG2A71Ngr3dnAL1dnBPivh72RRT4LO.1</a><br>
+                <strong>Meeting ID:</strong> 720 2237 7293<br>
+                <strong>Passcode:</strong> ixi7Mh
+            </p>
+        </div>
+
+        <div class="meeting">
+            <h2>Сергей Доценко (Personal Conference Room)</h2>
+            <p>
+                <strong>Join URL:</strong> <a href="https://us05web.zoom.us/j/5054927934?pwd=LzJxV0I2WGFTTnFDcUVDdFVnZGtjdz09">https://us05web.zoom.us/j/5054927934?pwd=LzJxV0I2WGFTTnFDcUVDdFVnZGtjdz09</a><br>
+                <strong>Meeting ID:</strong> 505 492 7934<br>
+                <strong>Passcode:</strong> 7878
+            </p>
+        </div>
+
+        <div class="meeting">
+            <h2>Яна Кисель (Українська мова - 8-А клас НУШ)</h2>
+            <p>
+                <strong>Join URL:</strong> <a href="https://us04web.zoom.us/j/78974804149?pwd=y0dQ00sVbwF9z07m2AeY2Odll32LM4.1">https://us04web.zoom.us/j/78974804149?pwd=y0dQ00sVbwF9z07m2AeY2Odll32LM4.1</a><br>
+                <strong>Meeting ID:</strong> 789 7480 4149<br>
+                <strong>Passcode:</strong> Twe3LN
+            </p>
+        </div>
+
+        <div class="meeting">
+            <h2>Тертишна Владислава Яківна (Personal Conference Room)</h2>
+            <p>
+                <strong>Join URL:</strong> <a href="https://us04web.zoom.us/j/6154081137?pwd=RUNIZG5ndEdHUTBoaXkwd09ocTk5QT09">https://us04web.zoom.us/j/6154081137?pwd=RUNIZG5ndEdHUTBoaXkwd09ocTk5QT09</a><br>
+                <strong>Meeting ID:</strong> 615 408 1137<br>
+                <strong>Passcode:</strong> 11111
+            </p>
+        </div>
+
+        <div class="meeting">
+            <h2>Наталія Станкевич (Драматургія і театр - 8-А)</h2>
+            <p>
+                <strong>Join URL:</strong> <a href="https://us05web.zoom.us/j/81514218920?pwd=c2pXVG5KbnBvd1BDZkliTWN4MW43UT09">https://us05web.zoom.us/j/81514218920?pwd=c2pXVG5KbnBvd1BDZkliTWN4MW43UT09</a><br>
+                <strong>Meeting ID:</strong> 815 1421 8920<br>
+                <
